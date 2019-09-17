@@ -37,4 +37,3 @@ $ node index.js
 Or (for Ubuntu):
 $ nodejs index.js
 ```
-# ihec-api
